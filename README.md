@@ -10,7 +10,7 @@ The code now follows all the accessibiliity standards, semantic HTML elements lo
 
 The following image shows the web applications appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](assets\images\Horiseon-screen-shot.PNG)
+<img src="assets\images\Horiseon-screen-shot.PNG">
 
 ### Changes in HTML file:
 
