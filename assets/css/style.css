@@ -8,7 +8,6 @@ body {
   background-color: #d9dcd6;
 }
 
-/* Renamed original div selector with header since it precise and relevant semantic HTML element name in every occurrence*/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -88,22 +87,26 @@ p {
   background-color: #2589bd;
 }
 
+/* Renamed the class selector to section-benefits to consolidate the repeatative code.*/
 .section-benefits {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
+/* consolidated the repetation in one class selector.*/
 .section-benefits h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
+/* consolidated the repetation in one class selector.*/
 .section-benefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
+/* Added class selector*/
 .content-section {
   margin-bottom: 20px;
   padding: 50px;
