@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Replaced div sclector to header, since it is more meaninfull.*/
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -33,6 +34,7 @@ header nav {
   font-size: 20px;
 }
 
+/* Modified div selector with nav to be more precise in the header section of the HTML page within body tag. */
 header nav ul {
   list-style-type: none;
 }
@@ -106,7 +108,7 @@ p {
   max-width: 150px;
 }
 
-/* Added class selector*/
+/* Added class selector "content-section" in the article tag within the main content of the HTML page to consolidate repeation.*/
 .content-section {
   margin-bottom: 20px;
   padding: 50px;
